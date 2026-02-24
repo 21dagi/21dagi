@@ -1,16 +1,19 @@
-## Hi there 👋
+# Dagmawi Negussie
 
-<!--
-**21dagi/21dagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Web & Backend & AI Developer — building scalable backends, ML-enabled features, and polished web apps.
 
-Here are some ideas to get you started:
+## About
+Backend-focused full-stack developer with a track record in AI integration, plugin architecture, and performance optimization. Comfortable across the full web stack and machine-learning pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+nest · ai training · docker · bash · bootstrap · cplusplus · css3 · express · git · graphql · html5 · java · javascript · linux · mongodb · mysql · nextjs · nodejs · php · postgresql · postman · python · react · scikit_learn · tailwind · typescript
+
+## Selected Highlights
+- Built reusable backend plugin architecture to speed feature rollout.
+- Trained ML models for personalized content recommendations and student performance tracking.
+- Improved search performance and stabilized server deployments.
+- Developed responsive HTML5 games and interactive learning tools enhanced with AI.
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/dagmawinegussie21/  
+- Telegram: @Noworrys
