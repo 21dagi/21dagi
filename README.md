@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dagmawi Negussie</h1>
-<h3 align="center">Backend-Focused Full-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dagmawinegussie21/" target="_blank">
