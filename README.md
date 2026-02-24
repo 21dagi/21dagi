@@ -13,15 +13,15 @@
 
 ---
 
-## 🚀 About Me
-- 🔧 Backend-focused full-stack developer  
-- 🤖 AI integration & ML model training  
-- 🧩 Plugin-based scalable architectures  
-- ⚡ Performance optimization & search systems  
+##  About Me
+-  Backend-focused full-stack developer  
+-  AI integration & ML model training  
+-  Plugin-based scalable architectures  
+-  Performance optimization & search systems  
 
 ---
 
-## 🧠 Languages & Tools
+##  Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nestjs,nextjs,docker,js,ts,python,linux,laravel,java,php,bootstrap,tailwind,express,graphql,mongodb,mysql,postgres,git,postman,bash" />
 </p>
