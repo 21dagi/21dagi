@@ -6,35 +6,35 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://t.me/Noworrys" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" 
+         alt="telegram" width="48" height="48"/>
   </a>
 </p>
 
 ---
 
-##  About Me
--  Backend-focused full-stack developer  
--  AI integration & ML model training  
--  Plugin-based scalable architectures  
--  Performance optimization & search systems  
+## 🚀 About Me
+- 🔧 Backend-focused full-stack developer  
+- 🤖 AI integration & ML model training  
+- 🧩 Plugin-based scalable architectures  
+- ⚡ Performance optimization & search systems  
 
 ---
 
-##  Languages & Tools
+## 🧠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,nestjs,graphql,mongodb,mysql,postgres,docker,linux,git,postman,bash" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,docker,js,ts,python,linux,laravel,java,php,bootstrap,tailwind,express,graphql,mongodb,mysql,postgres,git,postman,bash" />
 </p>
 
 ---
 
-##  AI & Data
+## 🧪 AI & Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://img.shields.io/badge/AI-Training-blue?style=for-the-badge" />
 </p>
 
 ---
-
 
 <p align="center">
   ⭐️ Open to collaboration on Backend, AI, and Full-Stack projects
