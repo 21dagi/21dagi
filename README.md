@@ -28,7 +28,7 @@
 
 ---
 
-## 🧪 AI & Data
+## AI & Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img src="https://img.shields.io/badge/AI-Training-blue?style=for-the-badge" />
@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  ⭐️ Open to collaboration on Backend, AI, and Full-Stack projects
+   Open to collaboration on Backend, AI, and Full-Stack projects
 </p>
