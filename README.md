@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Dagmawi 👋</h1>
+<h1 align="center">Great to have you here! 👋</h1>
 <p align="center">
-  <b>Full-Stack Developer &amp; Backend Systems Engineer</b>
+  <b>Welcome to my digital workspace &bull; Full-Stack &amp; Backend Systems</b>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ### 👨‍💻 About Me
 
 <p>
-  <img align="right" width="310" src="https://media.giphy.com/media/ule4akeXnY9Fb2kfTM/giphy.gif" alt="Developer Workspace" style="border-radius: 8px; margin-left: 18px;" />
+  <img align="right" width="310" src="./assets/developer.gif" alt="Developer Workspace" style="border-radius: 8px; margin-left: 18px;" />
 
   I'm a full-stack developer passionate about backend systems, AI integration, and scalable software architecture.<br/><br/>
   
@@ -158,11 +158,7 @@
 
 <p align="center">
   <a href="https://github.com/21dagi">
-    <img src="https://github-readme-stats.vercel.app/api?username=21dagi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" width="46%" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/21dagi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21dagi&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="46%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21dagi&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="55%" alt="Top Languages" />
   </a>
 </p>
 
