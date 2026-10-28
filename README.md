@@ -1,7 +1,4 @@
-<h1 align="center">Great to have you here! 👋</h1>
-<p align="center">
-  <b>Welcome to my digital workspace &bull; Full-Stack &amp; Backend Systems</b>
-</p>
+<h1 align="center">Hello Visitor 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Building+scalable+backend+systems...;Training+and+integrating+AI+models...;Architecting+plugin-driven+platforms...;Optimizing+search+and+high-throughput+APIs..." alt="Typing SVG" />
