@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 110" width="100%" height="110">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2" />
+      <stop offset="30%" stop-color="#6366f1" stop-opacity="0.9" />
+      <stop offset="60%" stop-color="#a855f7" stop-opacity="1" />
+      <stop offset="85%" stop-color="#ec4899" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.2" />
+    </linearGradient>
+
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1e293b" stroke-width="0.7" opacity="0.6"/>
+    </pattern>
+
+    <style>
+      .bg-card { fill: #0a0f1d; stroke: #1e293b; stroke-width: 1.5; rx: 10px; }
+      .grid-layer { opacity: 0.7; }
+      
+      @keyframes dash {
+        to {
+          stroke-dashoffset: -1200;
+        }
+      }
+
+      @keyframes pulseGlow {
+        0%, 100% {
+          opacity: 0.3;
+          r: 4;
+        }
+        50% {
+          opacity: 1;
+          r: 6;
+          filter: drop-shadow(0 0 6px #6366f1);
+        }
+      }
+
+      @keyframes blinker {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.2; }
+      }
+
+      .pulse-line {
+        stroke: url(#waveGrad);
+        stroke-width: 2.2;
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 200, 10;
+        animation: dash 14s linear infinite;
+      }
+
+      .pulse-node {
+        animation: pulseGlow 2.5s ease-in-out infinite;
+      }
+
+      .live-dot {
+        fill: #10b981;
+        animation: blinker 1.8s ease-in-out infinite;
+      }
+
+      .badge-title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, monospace;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        fill: #64748b;
+      }
+
+      .badge-value {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, monospace;
+        font-size: 11.5px;
+        font-weight: 600;
+        fill: #e2e8f0;
+      }
+    </style>
+  </defs>
+
+  <!-- Background card -->
+  <rect class="bg-card" x="1" y="1" width="848" height="108" />
+  
+  <!-- Subtle Grid -->
+  <rect x="2" y="2" width="846" height="106" fill="url(#grid)" class="grid-layer" rx="10"/>
+
+  <!-- Live Pulse Line (Electrocardiogram/Telemetry wave) -->
+  <path class="pulse-line" d="
+    M 20 62 
+    L 120 62 
+    L 135 48 L 145 74 L 155 35 L 168 85 L 180 55 L 190 62 
+    L 320 62 
+    L 332 50 L 340 70 L 348 38 L 360 88 L 372 52 L 382 62 
+    L 520 62 
+    L 535 45 L 545 78 L 555 30 L 568 90 L 580 50 L 590 62 
+    L 710 62 
+    L 722 52 L 730 72 L 738 40 L 750 82 L 760 55 L 770 62 
+    L 830 62
+  " />
+
+  <!-- Glowing Nodes on peaks -->
+  <circle class="pulse-node" cx="155" cy="35" fill="#38bdf8" />
+  <circle class="pulse-node" cx="348" cy="38" fill="#6366f1" style="animation-delay: 0.6s;" />
+  <circle class="pulse-node" cx="555" cy="30" fill="#a855f7" style="animation-delay: 1.2s;" />
+  <circle class="pulse-node" cx="738" cy="40" fill="#ec4899" style="animation-delay: 1.8s;" />
+
+  <!-- Top Metadata Bar -->
+  <g transform="translate(25, 24)">
+    <circle class="live-dot" cx="4" cy="4" r="3.5" />
+    <text x="14" y="7" class="badge-title">SYSTEM STATUS:</text>
+    <text x="110" y="7" class="badge-value" fill="#34d399">ONLINE &amp; ACTIVE</text>
+
+    <text x="240" y="7" class="badge-title">ENGINEERING FOCUS:</text>
+    <text x="375" y="7" class="badge-value">HIGH-THROUGHPUT BACKENDS</text>
+
+    <text x="590" y="7" class="badge-title">DATA INTELLIGENCE:</text>
+    <text x="715" y="7" class="badge-value">AI / ML INTEGRATION</text>
+  </g>
+</svg>
